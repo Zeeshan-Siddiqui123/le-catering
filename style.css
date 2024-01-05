@@ -1,0 +1,115 @@
+
+.w{
+    color: grey;
+    position: relative;
+    left: 10px;
+}
+h4{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 10px;
+}
+.dd{
+    padding: 5px;
+    background-color: aqua;
+    background-image: url(./hamburger.jpg);
+}
+h1{
+    margin: 40% 0% 0% -85%; 
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 1px; color: grey;  
+}
+body{
+    background-color: white;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    text-align: center;
+}
+header{
+    background-color: #fff;
+    padding: 10px;
+}
+header li{
+    display: inline;
+    padding-left: 45px;
+    box-shadow: black;
+}
+headeer li a{
+    color: black;
+    text-decoration: none;
+    padding: 13px;
+    transition: .3s ease;
+}
+.About{
+    float: right;
+    position: relative;
+    top: 5px;
+    right: 180px;
+    color: black;
+    text-decoration: none;
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+.Menu{
+    float: right;
+    position: relative;
+    left: -60px;
+    top: 5px;
+    color: black;
+    text-decoration: none;
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Contact{
+   float: right;
+   position: relative;
+   left: 70px;
+   top: 5px;
+   color: black;
+   text-decoration: none;
+   font-size: 19px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+.main{
+    position: absolute;
+    left: 0;
+    top: 18px;
+    left: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+    word-spacing: 10px;
+}
+.one{
+    position: relative;
+    left: 130px;
+}
+.grey{
+    color: grey;
+}
+.close{
+    position: relative;
+    bottom: 30px;
+    left: 180px;
+    font-size: 18px;
+}
+.pic{
+    position: relative;
+    top: 30px;
+    left: 160px;
+}
+.class{
+    color: black;
+    position: relative;
+    left: 40px;
+}
+.nn{
+    position: relative;
+    bottom: 500px;
+    
+}
+.nm{
+    position: relative;
+    right: 28px;
+}
